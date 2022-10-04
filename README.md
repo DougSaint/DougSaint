@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome to my world 
+Hello! I'm Douglas Santos a Fullstack Developer.
+Actually studing at @Trybe
 
-<!--
-**DougSaint/DougSaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://media.tenor.com/oC_e7R9GvZ8AAAAM/rick-and-morty-rtj.gif
 
-Here are some ideas to get you started:
+man_technologist Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript HTML5 CSS3 Bootstrap
+
+React Electron Heroku JQuery
+
+Nodejs Docker WordPress JSON
+
+MySQL Git Bitbucket MongoDB
