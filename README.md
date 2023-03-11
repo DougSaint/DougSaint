@@ -32,4 +32,5 @@
   <a href="https://wa.me/5538999944663" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5538999944663"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougSaint&layout=compact&theme=onedark)](https://github.com/DougSaint)
  
