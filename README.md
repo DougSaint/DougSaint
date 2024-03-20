@@ -7,8 +7,8 @@
   <img 
   width="15px"
   style="vertical-align: middle; border-radius="10";
-  src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/></a>.
-   E estudando Cybersegurança na anhanguera
+  src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/></a>
+   e estudando Cybersegurança na <a href="#"> Anhanguera </a>
 </p>
 
 <p align="left">
