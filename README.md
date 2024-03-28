@@ -4,7 +4,7 @@
   Olá, meu nome é Douglas Santos e sou <strong>Desenvolvedor Fullstack</strong>.<br>
   Formado pela 
   <a href="https://www.betrybe.com/" alt="Trybe"> Trybe
-  src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/></a>
+  </a>
    e estudando Cybersegurança na <a href="#"> Anhanguera </a>
 </p>
 
