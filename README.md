@@ -8,12 +8,9 @@
    e estudando Cybersegurança na <a href="#"> Anhanguera </a>
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Javascript, Typescript, HTML/CSS </strong>
-</p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, Vue, Bootstrap, Redux, Testes em Jest & Node.js</strong>
+  💼 Ferramentas: <strong>React, Angular, Vue, Node e um tiquinho de Python</strong>
 </p>
 
 <p align="left">
